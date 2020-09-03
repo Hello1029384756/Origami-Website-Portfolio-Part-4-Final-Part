@@ -1,0 +1,41 @@
+h1{
+    background-color: aquamarine;
+    text-align: center;
+    margin-left: 430px;
+    width: 1000px
+}
+*{
+    background-color: gray;
+}
+img{
+    width: 200px;
+    height: 200px
+}
+.panda{
+    margin-left: 1100px;
+    margin-top: -320px;
+    text-align: center;
+}
+.camel{
+    margin-top: -320px;
+    margin-left: 1100px;
+    text-align: center;
+
+}
+.pigeon{
+    margin-top: 50px;
+    margin-left: -1200px;
+    text-align: center;
+
+}
+.chameleon{
+    margin-left:-1200px;
+    margin-top: 120px;
+    text-align: center;
+
+}
+.aboutme{
+    margin-left:1600px;
+    margin-top:-50px;
+    width: 200px;
+}
